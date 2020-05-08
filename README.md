@@ -9,7 +9,7 @@ Air Quality Sensor Network: https://data.public.lu/en/datasets/air-quality-senso
 
 Mild Road Data: https://data.gov.uk/dataset/d3a76dbd-9936-4375-9ba6-e2974fafc943/mill-road-project-traffic-sensor-data
 
-Pump sensor data: https://www.kaggle.com/nphantawee/pump-sensor-data
+Pump sensor Data: https://www.kaggle.com/nphantawee/pump-sensor-data
 
 Gas Sensor Data: https://data.mendeley.com/datasets/8fgnf9v5f5/2
 
@@ -20,5 +20,5 @@ Brazil Weather Data: https://www.kaggle.com/guispadaccia/brazil-weather-data-fro
 
 # Fault Detection
 
-Oil well fault detection: https://github.com/ricardovvargas/3w_dataset
+Oil Well Fault Detection: https://github.com/ricardovvargas/3w_dataset
 
