@@ -17,7 +17,14 @@ Earthquake Sensor Data: https://figshare.com/articles/Earthquake_Early_Warning_D
 
 Brazil Weather Data: https://www.kaggle.com/guispadaccia/brazil-weather-data-from-2010-to-2017
 
+Dutch Wind enery production by month: https://data.overheid.nl/data/dataset/cbs-wind-energy-electricity-production-capacity-and-supply-of-wind-by-month
 
+Dutch CBS New energy: https://data.overheid.nl/data/dataset/cbs-hernieuwbare-energie-eindverbr-en-vermeden-verbr-foss-energie-1990-2013
+
+      https://data.overheid.nl/data/dataset/cbs-energy-balance-sheet-key-figures-1946-2016
+      https://data.overheid.nl/dataset/6929b3ab-e7a5-45ad-922b-6c1efb84ebbc
+      
+      
 # Fault Detection
 
 Oil Well Fault Detection: https://github.com/ricardovvargas/3w_dataset
