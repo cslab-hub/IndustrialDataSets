@@ -24,3 +24,7 @@ Oil Well Fault Detection: https://github.com/ricardovvargas/3w_dataset
 Dataset for dynamic characterization of multi-component sensors for force and moment https://oar.ptb.de/resources/show/10.7795/720.20181105
 
 Real-Time automatic anlysis of temporal information in sensor networks https://data.mendeley.com/datasets/ccsn9xj4y8/1
+
+Subsea Cable Condition Monitoring with Distributed Optical Fibre Vibration Sensor https://eprints.soton.ac.uk/426818/
+
+https://data.nal.usda.gov/dataset/data-field-scale-sensor-network-data-set-monitoring-and-modeling-spatial-and-temporal-variation-soil-moisture-dryland-agricultural-field
