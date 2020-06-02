@@ -28,3 +28,6 @@ Real-Time automatic anlysis of temporal information in sensor networks https://d
 Subsea Cable Condition Monitoring with Distributed Optical Fibre Vibration Sensor https://eprints.soton.ac.uk/426818/
 
 https://data.nal.usda.gov/dataset/data-field-scale-sensor-network-data-set-monitoring-and-modeling-spatial-and-temporal-variation-soil-moisture-dryland-agricultural-field
+
+The Engineering and Physical Sciences Research Council (EPSRC) research project Smart Infrastructure: Wireless sensor network system for condition assessment and monitoring of in- frastructure (2006–2009) aimed to showcase the application of wireless sensor networks (WSNs) across multiple infrastructure types (e.g., bridges, tunnels, and water pipelines).
+
